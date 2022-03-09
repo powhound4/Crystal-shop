@@ -13,5 +13,5 @@ env:
   InstallCommand: npm ci
   DeployCommand: npm publish --access public
   Organization: powhound4
-  Repository: Crystal-shop
+  Repository: Crystal-shop-old
   Output: _site
